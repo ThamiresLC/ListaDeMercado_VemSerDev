@@ -5,7 +5,8 @@
 ## 🛠️ Abrir e rodar o projeto
   
 - `Resumo` : PROJETO DESACOPLADO, por tanto é necessario rodar o Back-End e o Front-End ao mesmo tempo. Rodando primeiramente o Back-end para poder funcionar o Front-End.
-- 
+<br />
+
 - `Passo 1` : *Iniciando o Back-End*, rodar o npm no projeto com o comando - npm install -
   
 - `Passo 2` : Caso não tenha o webpack instalado, rodar o comando - npm link webpack -
@@ -16,4 +17,4 @@
 
 - `Passo 5` : Rodar o comando - npm install antd -  
 
-- `Passo 6` : Para rodar o Front-End é necessário trocar a * port *, exemplo:  - npm run start --port 3001 - 
+- `Passo 6` : Para rodar o Front-End é necessário trocar a port , exemplo:  - npm run start --port 3001 - 
