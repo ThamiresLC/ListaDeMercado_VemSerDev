@@ -2,6 +2,8 @@
 
 ## 🛠 Informações gerais 
 
+- Lista simples de compras para o Supermercados, podendo utiliza-la para ser uma lista de qualquer outro interesse.
+
 - Linguagem de `JavaScript`, é necessário ter para rodar o projeto `Node.js`, `npm`, `ant design`, essas informações são para o <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" />
 
 - Projeto desacoplado, é necessario rodar o Back-End e o Front-End ao mesmo tempo. Rodando primeiramente o Back-end para poder funcionar o Front-End.
