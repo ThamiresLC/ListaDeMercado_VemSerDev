@@ -1,32 +1,14 @@
-
-> Projeto VemSerDev, criar uma lista de compras para supermercado.
-
-
-## 🚀 Instalando <ListaCerta>
-
-Para instalar o <ListaDeMercado_VemSerDev>, siga estas etapas:
-
-Linux e macOS:
-```
-<comando_de_instalação>
-```
-
-Windows:
-```
-<comando_de_instalação>
-```
-
-[⬆ Voltar ao topo](#ListaDeMercado_VemSerDev)<br>
-
+# ListaCerta 
 
 ## 📁 Acesso ao projeto
 
 <p> Você pode acessar o cógido fonte do projeto inicial ou baixá-lo. </p>
 
-## 🛠️ Abrir e rodar o projeto
+## 🚀 Abrir e rodar o projeto
   
-- `Resumo` : PROJETO DESACOPLADO, por tanto é necessario rodar o Back-End e o Front-End ao mesmo tempo. Rodando primeiramente o Back-end para poder funcionar o Front-End.
-<br />
+```
+<PROJETO DESACOPLADO, por tanto é necessario rodar o Back-End e o Front-End ao mesmo tempo. Rodando primeiramente o Back-end para poder funcionar o Front-End.>
+```
 
 - `Passo 1` : *Iniciando o Back-End*, rodar o npm no projeto com o comando - npm install -
   
