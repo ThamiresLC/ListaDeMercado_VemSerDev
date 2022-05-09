@@ -6,11 +6,10 @@
 
 ## 🚀 Abrir e rodar o projeto
   
-```
-<PROJETO DESACOPLADO, por tanto é necessario rodar o Back-End e o Front-End ao mesmo tempo. Rodando primeiramente o Back-end para poder funcionar o Front-End.>
-```
 
-- `Passo 1` : *Iniciando o Back-End*, rodar o npm no projeto com o comando - npm install -
+- `Contexto` : PROJETO DESACOPLADO, por tanto é necessario rodar o Back-End e o Front-End ao mesmo tempo. Rodando primeiramente o Back-end para poder funcionar o Front-End.>
+
+- `Passo 1` : *Iniciando o Back-End*, rodar o npm no projeto com o comando  ´´´npm install´´´
   
 - `Passo 2` : Caso não tenha o webpack instalado, rodar o comando - npm link webpack -
   
