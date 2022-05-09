@@ -1,4 +1,4 @@
-# ⭐ ListaCerta 
+# ⭐ ListaCerta ⭐
 
 ## 🛠 Informações gerais 
 
