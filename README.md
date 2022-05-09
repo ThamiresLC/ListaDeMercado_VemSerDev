@@ -1,13 +1,10 @@
-# ListaCerta 
+# 🦄 ListaCerta 
 
-## 📁 Acesso ao projeto
-
-<p> Você pode acessar o cógido fonte do projeto inicial ou baixá-lo. </p>
 
 ## 🚀 Abrir e rodar o projeto
   
 
-- `Contexto`  PROJETO DESACOPLADO, por tanto é necessario rodar o Back-End e o Front-End ao mesmo tempo. Rodando primeiramente o Back-end para poder funcionar o Front-End.>
+- `Contexto`  PROJETO DESACOPLADO, por tanto é necessario rodar o Back-End e o Front-End ao mesmo tempo. Rodando primeiramente o Back-end para poder funcionar o Front-End. Após baixar o projeto na sua máquina, caso precise, siga as intruções:
 
 - `Passo 1`  *Iniciando o Back-End*, rodar o npm no projeto com o comando `npm install`
   
