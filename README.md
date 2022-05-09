@@ -1,3 +1,24 @@
+
+> Projeto VemSerDev, criar uma lista de compras para supermercado.
+
+
+## 🚀 Instalando <ListaCerta>
+
+Para instalar o <ListaDeMercado_VemSerDev>, siga estas etapas:
+
+Linux e macOS:
+```
+<comando_de_instalação>
+```
+
+Windows:
+```
+<comando_de_instalação>
+```
+
+[⬆ Voltar ao topo](#ListaDeMercado_VemSerDev)<br>
+
+
 ## 📁 Acesso ao projeto
 
 <p> Você pode acessar o cógido fonte do projeto inicial ou baixá-lo. </p>
