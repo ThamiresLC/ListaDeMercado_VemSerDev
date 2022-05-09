@@ -1,0 +1,44 @@
+
+.produto__container{
+    font-family: Andale Mono;
+    font-size: 18px;
+     
+}
+
+.produto__edit{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 8px;   
+}
+
+.produto__campo{
+    display: grid;
+    grid-template-columns: 16% 40%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.produto__campo2{
+    margin-bottom: 3%;
+    display: grid;
+    grid-template-columns: 14% 40%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.produto__campo1{
+    margin-bottom: 3%;
+    display: grid;
+    grid-template-columns: 9% 45%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.protudo__label{
+    font-size: 14px;
+    font-weight: 600;
+
+}
+
+.editar--btn{
+    margin-top: 3%;
+    width: 20%;   
+}

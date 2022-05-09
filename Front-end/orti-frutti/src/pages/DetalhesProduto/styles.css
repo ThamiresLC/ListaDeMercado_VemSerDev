@@ -1,0 +1,24 @@
+.produto__container {
+    width: 100%;
+    max-width: 1200px;
+    padding: 16px;
+    font-family: Andale Mono;
+    font-size: 18px;
+  }
+
+
+  .produto__card__container{
+      display: flex;
+      flex-direction: row;
+      gap: 16px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+  }
+
+  .produto__card--actions{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}

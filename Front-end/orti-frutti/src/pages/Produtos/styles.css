@@ -1,0 +1,17 @@
+.produto__container {
+    width: 100%;
+    max-width: 1200px;
+    padding: 16px;
+    font-size: 18px;
+    font-family: Andale Mono;
+    font-weight: 600;
+    background-image: url('https://bobinex.fbitsstatic.net/img/p/papel-de-parede-degrade-trinchado-amarelo-e-laranja-98070/285423-1.jpg?w=570&h=570&v=no-change&qs=ignore');
+
+  }
+
+
+  .produto__card__container{
+      display: flex;
+      flex-direction: row;
+      gap: 16px;
+  }
