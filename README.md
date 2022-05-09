@@ -18,3 +18,5 @@
 - `Passo 5` : Rodar o comando - npm install antd -  
 
 - `Passo 6` : Para rodar o Front-End é necessário trocar a port , exemplo:  - npm run start --port 3001 - 
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
