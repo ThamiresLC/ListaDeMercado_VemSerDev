@@ -23,6 +23,8 @@
 
 - `Passo 6`  Para rodar o Front-End é necessário trocar a port , exemplo:  `npm run start --port 3001`
 
+### Informação complementar: Sempre que for rodar o Back-End novamente verificar se tem uma pasta chamada "Back-End" duplicado, caso tenha, excluir essa pasta e *voilà*, estará rodando corretamente. 🤠
+
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
 
