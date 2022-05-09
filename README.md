@@ -4,7 +4,7 @@
 
 ## 🛠️ Abrir e rodar o projeto
   
-- `Resumo` : PROJETO DESACOPLADO, por tanto é necessario rodar o Back-End e o Front-End para o funcionamento, é indicado inciar o Back-End primeiro e testá-lo na API (utilizei Swagger) apontar o projeto para o banco de dados, funcionando corretamente inicia-se o Front-End ultilizando o comando "npm run start port:3001" (port da sua preferencis), porém deverá ser uma port diferente de "3000" pois essa de refere ao Back-End.    
+- `Resumo` : PROJETO DESACOPLADO, por tanto é necessario rodar o Back-End e o Front-End juntamente para o funcionamento, é indicado inciar o Back-End primeiro e testá-lo na API (utilizei Swagger) apontar o projeto para seu o banco de dados, funcionando corretamente inicia-se o Front-End ultilizando o comando "npm run start port:3001" (port da sua preferencia), porém deverá ser uma port diferente de "3000" pois essa é referente ao Back-End.    
 
 - `Passo 1` : Instalar o NPM e inicia-lo na aplicação  
   
