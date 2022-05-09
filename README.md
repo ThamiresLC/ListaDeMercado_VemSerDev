@@ -23,6 +23,8 @@
 
 - `Passo 6`  Para rodar o Front-End é necessário trocar a port , exemplo:  `npm run start --port 3001`
 
+- `Passo 7`  Aparecendo a mensagem no terminal *? Something is already running on port 3000.* dar um *Y*.
+
 ### ❗❗❗ Informação complementar
 
 - Sempre verificar na pasta Back-End se tem uma outra pasta Back-End duplicada, caso tenha, excluir essa pasta e *voilà*, estará rodando corretamente ❤
