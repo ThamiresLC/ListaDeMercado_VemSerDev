@@ -13,7 +13,7 @@
 }
 
 .header{
-  background-color: #f3efe3;
+  background-color:  #ffffff;
 }
 
 .imgHeader{
@@ -22,29 +22,28 @@
 }
 
 .menu{
-  background-image: url('https://bobinex.fbitsstatic.net/img/p/papel-de-parede-degrade-trinchado-amarelo-e-laranja-98070/285423-1.jpg?w=570&h=570&v=no-change&qs=ignore');
-  padding: 16px;
+  background-image: url('https://brancopapeldeparede.fbitsstatic.net/img/p/papel-de-parede-palha-degrade-laranja-766-72676/244928-1.jpg?w=817&h=1108&v=no-change&qs=ignore');
 }
 
 .footer{
-  background-color: #fdcb95;
+  background-color: #e7a267;
   text-align: center;
   font-weight: 600;
   font-family: Andale Mono, monospace;
 }
 
 .menu__section{
-  background-color: #f3efe3 ;
+  background-color: #fffefa;
   font-size: 17px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .textHeader{
-  font-size: 30px;
+  font-size: 6vh;
   margin-left: 40%;
   font-family: Andale Mono, monospace;
   font-weight: 600;
-  color: black;
+  color: #e7a267;
 }
 
 .imgMenu{
@@ -55,3 +54,14 @@
   margin-bottom: 2%;
 }
 
+/* =================== */
+
+.textoBody{
+  font-size: 5vh;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
+.body{
+  background-image: url('https://brancopapeldeparede.fbitsstatic.net/img/p/papel-de-parede-palha-degrade-laranja-766-72676/244928-1.jpg?w=817&h=1108&v=no-change&qs=ignore');
+}

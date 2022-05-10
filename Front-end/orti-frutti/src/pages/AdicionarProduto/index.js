@@ -1,5 +1,5 @@
 import './styles.css'
-import { CheckCircleOutlined, CheckOutlined } from '@ant-design/icons'
+import { CheckCircleOutlined, CheckOutlined, LikeOutlined  } from '@ant-design/icons'
 import React from "react";
 import api from '../../services/api';
 import { useHistory } from 'react-router-dom'
@@ -29,6 +29,7 @@ export default function Produtos(){
 
     return(
         <div className="produto__container">
+            <p className='tituloAdd' >{<LikeOutlined  style={{color: "orange"}} />} Bem-vindo ao ListaCerta!</p>
             <p className='tituloAdd' >{<CheckCircleOutlined style={{color: "green"}} />} Adicione agora um novo produto ao seu carrinho!</p>
             <br/>
             <div className="produto__card__container">
